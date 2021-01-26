@@ -34,5 +34,5 @@ Un tracker de hábitos con sistema de rewards basados en la evolución de un per
 *Este proyecto se rige por la licencia GNU General Public License 3.0*
 
 
-![Gello Habits](https://github.com/devcompzo/gello-habits/tree/main/assets/Readme/readme.png?raw=true) 
+![Gello Habits](https://github.com/devcompzo/gello-habits/blob/main/assets/Readme/readme.png?raw=true) 
 
