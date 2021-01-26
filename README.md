@@ -4,7 +4,7 @@ Un tracker de hábitos con sistema de rewards basados en la evolución de un per
 # Requerimientos de Gello Habits
 
 ## Requerimientos básicos:
-* Debe ser web - mobile first (esto quiere decir que debe estar optimizado para mobile) o full mobile.
+* Debe ser una app full mobile o una webapp utilizando el aproach **mobile first** (esto quiere decir que debe estar optimizado para mobile).
 
 ## Para el juego:
 * Tener una mascota o personaje que progrese según se cumplen los hábitos (la forma en que se obtiene la experiencia, vida, puntos, etc. es libre de cada quien). (Tomar en cuenta el estudio de que un hábito se implanta correctamente entre 21-30 días).
