@@ -1,4 +1,4 @@
-# gello-habits
+# Gello Habits
 Un tracker de hábitos con sistema de rewards basados en la evolución de un personaje animado.
 
 # Requerimientos de Gello Habits
